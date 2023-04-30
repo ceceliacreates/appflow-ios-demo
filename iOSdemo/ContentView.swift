@@ -16,7 +16,7 @@ struct ContentView: View {
             Text("Appflow")
                 .font(.largeTitle)
                 .foregroundColor(.accentColor)
-            Text("The easiest way to build and ship mobile apps")
+            Text("Hello Deep Dish Swift! 👋")
                 .font(.subheadline)
                 .fontWeight(.light)
         }
